@@ -4,9 +4,9 @@
 
 build/
 *.userdb/
-installation.yaml
+#installation.yaml
 user.yaml
-*.custom.yaml
+#*.custom.yaml
 
 others/script/scel2txt/out/*
 others/script/scel2txt/scel/*
