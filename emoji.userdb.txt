@@ -1,0 +1,19 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	14
+#@/user_id	b4322e39-b520-43f9-97ed-40de7459d881
+cry,sad;biao'qing spain,country;guo like,happy;biao'qing 	😭🇪🇸😍	c=1 d=1 t=14
+cry,sad;biao'qing spain,country;guo ok;shou`hand 	😭🇪🇸👌	c=1 d=1.08411 t=14
+cry,sad;biao'qing spain,country;guo ok;shou`hand like,happy;biao'qing 	😭🇪🇸👌😍	c=1 d=0.995012 t=14
+eye;wu'guan`body 	👀	c=2 d=1.92639 t=14
+grin;biao'qing 	😏	c=2 d=1.96531 t=14
+he,hanzi;zi`kanji laugh,happy;biao'qing 	🈴😂	c=1 d=0.97531 t=14
+kiss;ai'qing`love 	💋	c=2 d=1.99501 t=14
+laugh,happy;biao'qing 	😂	c=-1 d=0 t=14
+like,happy;biao'qing 	😍	c=-1 d=1.0792 t=14
+ok;shou`hand 	👌	c=1 d=1 t=14
+smile,happy;biao'qing 	😉	c=-1 d=0 t=14
+tiger,hu;sheng'xiao`zodiac 	🐯	c=1 d=1 t=14
+yan,hanzi;zi`kanji jin,hanzi;zi`kanji spain,country;guo 	🈦🈲🇪🇸	c=1 d=0.970446 t=14
