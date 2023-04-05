@@ -1,0 +1,5 @@
+patch:
+  date_translator:
+    date: date
+    time: time
+    week: week
