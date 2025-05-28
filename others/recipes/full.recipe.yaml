@@ -25,6 +25,7 @@ install_files: >-
   double_pinyin_ziguang.schema.yaml
   symbols_v.yaml
   symbols_caps_v.yaml
+  symbols_custom.yaml
   radical_pinyin.schema.yaml
   radical_pinyin.dict.yaml
   melt_eng.schema.yaml
